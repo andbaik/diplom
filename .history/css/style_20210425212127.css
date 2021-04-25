@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+body .one {
+    display: flex;
+    justify-content: space-between;
+}
+body .one > img{
+    width: 25%;
+    height: auto;
+    display: flex;
+}
+
